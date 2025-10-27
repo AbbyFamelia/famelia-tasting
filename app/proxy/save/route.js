@@ -1,3 +1,4 @@
+export const runtime = 'nodejs';
 import crypto from "crypto";
 
 const SHOP = process.env.SHOPIFY_SHOP;                 // e.g. famelia-wine.myshopify.com
